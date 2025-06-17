@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mariah Meehan
 
-<!--
-**mariahsuzanne/mariahsuzanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses turn messy data into clear, actionable insights. With 6+ years of experience in data analytics, cloud architecture, and visualization, I’m passionate about using data to solve real problems.
 
-Here are some ideas to get you started:
+🔍 Areas of focus:
+- Customer Behavior & Retention Analytics
+- Cloud Data Strategy (Google Cloud, BigQuery, Looker)
+- MLOps & Model Monitoring
+- Data Enablement & Storytelling
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on building out my personal portfolio of projects
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: linkedin, email: mariah.meehan@gmail.com
+
+📁 Explore my projects below ⬇️  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mariah-meehan)
+
+
+
 -->
